@@ -1,4 +1,5 @@
-# Sistema de chamados
+# Sistema de Chamados
+## Discente: Rute Willemann, RA: 10436781
 
 Desejamos implementar um sistema para dar suporte ao registro e tratamento de chamados de clientes em uma dada empresa.
 
